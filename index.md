@@ -1,3 +1,4 @@
-## Machine Learning 공부 후 정리한 jupyter 노트입니다.
+## 💻 jupyter notebooks for ML studying with Python
+----
 ### Contents
-### lab-01_1 Tensor Manipulation
++ lab-01_1 Tensor Manipulation
