@@ -2,6 +2,7 @@
 ----
 ### Tensor Flow
 + [lab01 Machine Learning Concepts](lab01_Machine_Learning_Concepts.html)
++ [lab02 Simple Liner Regression](lab02_Simple_Liner_Regression.html)
 ----
 ### Pytorch
 + [lab-01_1 Tensor Manipulation](lab01_1_Tensor_Manipulation.html)
