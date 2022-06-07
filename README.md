@@ -4,6 +4,8 @@
 #### Tensor Flow
 + [lab01 Machine Learning Concepts](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab01_Machine_Learning_Concepts.html)
 + [lab02 Simple Linear Regression](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab02_Simple_Linear_Regression.html)
++ [lab03 Linear Regression and How to minimize cost](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab03_Linear_Regression_and_How_to_minimize_cost.html)
+
 ---
 #### Pytorch
 + [lab01_1 Tensor Manipulation](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab01_1_Tensor_Manipulation.html)
