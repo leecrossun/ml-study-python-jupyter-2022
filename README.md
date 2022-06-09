@@ -6,6 +6,7 @@
 + [lab02 Simple Linear Regression](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab02_Simple_Linear_Regression.html)
 + [lab03 Linear Regression and How to minimize cost](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab03_Linear_Regression_and_How_to_minimize_cost.html)
 + [lab04 Multi variable linear regression](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab04_Multi_variable_linear_regression.html)
++ [lab04 Multi variable linear regression LAB](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab04_Multi_variable_linear_regression_LAB.html)
 
 ---
 #### Pytorch
