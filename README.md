@@ -8,6 +8,7 @@
 + [lab04 Multi variable linear regression](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab04_Multi_variable_linear_regression.html)
 + [lab04 Multi variable linear regression LAB](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab04_Multi_variable_linear_regression_LAB.html)
 + [lab05_1 Logistic Regression](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab05_1_Logistic_Regression.html)
++ [lab05_2 Logistic Regression](https://leecrossun.github.io/ml-study-python-jupyter-2022/lab05_2_Logistic_Regression.html)
 
 ---
 #### Pytorch
