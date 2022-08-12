@@ -4,6 +4,7 @@
 + Basic Concepts and Data Handling
     + [01_1 ML Basic Concepts](ml_book/01_1_Basic_Concepts.html)
     + [01_2 Numpy](ml_book/01_2_Numpy.html)
+    
 ---
 ### LAB (Tensor Flow)
 + [lab01 Machine Learning Concepts](tensor_flow/lab01_Machine_Learning_Concepts.html)
