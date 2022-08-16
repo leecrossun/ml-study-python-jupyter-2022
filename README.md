@@ -6,6 +6,7 @@
     + [01_1 ML Basic Concepts](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/01_1_Basic_Concepts.html)
     + [01_2 Numpy](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/01_2_Numpy.html)
     + [01_4 Matplotlib](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/01_4_Matplotlib.html)
+    + [02_1 Perceptron](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/02_1_Perceptron.html)
 ---
 #### Lab (Tensor Flow)
 + [lab01 Machine Learning Concepts](https://leecrossun.github.io/ml-study-python-jupyter-2022/tensor_flow/lab01_Machine_Learning_Concepts.html)
@@ -21,6 +22,3 @@
 + [lab01_1 Tensor Manipulation](https://leecrossun.github.io/ml-study-python-jupyter-2022/pytorch/lab01_1_Tensor_Manipulation.html)
 + [lab-01_2 Tensor Manipulation II](https://leecrossun.github.io/ml-study-python-jupyter-2022/pytorch/lab01_2_Tensor_ManipulationII.html)
 + [lab02 Linear regression](https://leecrossun.github.io/ml-study-python-jupyter-2022/pytorch/lab02_Linear_regression.html)
-
----
-#### Data Handling

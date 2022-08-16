@@ -5,6 +5,7 @@
     + [01_1 ML Basic Concepts](ml_book/01_1_Basic_Concepts.html)
     + [01_2 Numpy](ml_book/01_2_Numpy.html)
     + [01_4 Matplotlib](ml_book/01_4_Matplotlib.html)
+    + [02_1 Perceptron](ml_book/02_1_Perceptron.html)
     
 ---
 ### LAB (Tensor Flow)
