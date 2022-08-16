@@ -5,6 +5,7 @@
 + Basic Concepts and Data Handling
     + [01_1 ML Basic Concepts](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/01_1_Basic_Concepts.html)
     + [01_2 Numpy](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/01_2_Numpy.html)
+    + [01_4 Matplotlib](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/01_4_Matplotlib.html)
 ---
 #### Lab (Tensor Flow)
 + [lab01 Machine Learning Concepts](https://leecrossun.github.io/ml-study-python-jupyter-2022/tensor_flow/lab01_Machine_Learning_Concepts.html)
