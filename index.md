@@ -9,6 +9,7 @@
     + [02_1 Perceptron](ml_book/02_1_Perceptron.html)
 + Neural Network
     + [03_1 Neural Network](ml_book/03_1_Neural_Network.html)
+    + [03_2 Neural_Network_II](ml_book/03_2_Neural_Network_II.html)
     
 ---
 ### LAB (Tensor Flow)
