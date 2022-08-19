@@ -12,6 +12,8 @@
     + [03_2 Neural_Network_II](ml_book/03_2_Neural_Network_II.html)
     + [03_3 Neural_Network_III](ml_book/03_3_Neural_Network_III.html)
     + [03_4 Neural_Network_IV](ml_book/03_4_Neural_Network_IV.html)
++ Neural Network Training
+    + [04_1 Neural_Network_Training](ml_book/04_1_Neural_Network_Training.html)
     
 ---
 ### LAB (Tensor Flow)
