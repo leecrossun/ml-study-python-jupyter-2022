@@ -15,6 +15,7 @@
     + [03_4 Neural_Network_IV](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/03_4_Neural_Network_IV.html)
 + Neural Network Training
     + [04_1 Neural_Network_Training](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/04_1_Neural_Network_Training.html)
+    + [04_2 Numerical_Differentiation](https://leecrossun.github.io/ml-study-python-jupyter-2022/ml_book/04_2_Numerical_Differentiation.html)
     
 ---
 #### Lab (Tensor Flow)
