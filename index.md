@@ -15,6 +15,7 @@
 + Neural Network Training
     + [04_1 Neural_Network_Training](ml_book/04_1_Neural_Network_Training.html)
     + [04_2 Numerical_Differentiation](ml_book/04_2_Numerical_Differentiation.html)
+    + [04_3 Neural_Training_Algorithm](ml_book/04_3_Neural_Training_Algorithm.html)
     
 ---
 ### LAB (Tensor Flow)
