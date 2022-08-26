@@ -21,9 +21,9 @@ def numerical_gradient(f, x):
 
     return grad
 # gradient_descent
+# f : 최적화 하려는 func / init_x : 초깃값 / lr(learning rate) : 학습률 / step_num : 반복 횟수
 def gradient_descent(f, x, lr=0.01, step_num=100):
     for i in range(step_num):
         grad = numerical_gradient(f, x)
         x -= lr * grad
     return x
-
