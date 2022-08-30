@@ -9,7 +9,7 @@ from two_layer_net import TwoLayerNet
 train_loss_list = []
 
 # hyper parameter
-iters_num = 50000
+iters_num = 10000
 train_size = x_train.shape[0] # the number of rows
 batch_size = 100
 learning_rate = 0.1
