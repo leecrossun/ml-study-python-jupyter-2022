@@ -32,7 +32,7 @@ for epochs in range(1, nb_epochs + 1):
     cost_list.append(cost.tolist())
 
 # draw graph
-x = np.arange(0, len(cost_list))
+x = torch.arange(0, len(cost_list))
 y = cost_list
 plt.plot(x, y)
 plt.show()
