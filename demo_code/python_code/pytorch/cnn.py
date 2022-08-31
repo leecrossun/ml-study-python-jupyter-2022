@@ -82,11 +82,11 @@ for epoch in range(1, training_epochs + 1):
         optimizer.zero_grad()
         hypothesis = model(X) # 예측
         cost = criterion(hypothesis, Y) # cost
-        cost.backward() # 역전파
+        cost.backward() # cost의 W에 대한 기울기 (미분)
         optimizer.step() # update
 
         avg_cost += cost / total_batch # 평균 cost
-    print('[Epoch: {:>4}] cost = {:>.9}'.format(epoch + 1, avg_cost))
+    print('[Epoch: {:>4}] cost = {:>.9}'.format(epoch, avg_cost))
 
 print('--training is finished--')
 # accuracy test
