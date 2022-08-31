@@ -1,0 +1,10 @@
+
+Epython:S5603"(Remove this unused function declaration.(Ë¾Ì‰ûÿÿÿÿ
+@python:S5603"(Remove this unused function declaration.(£ŸÅ¾
+Lpython:S5603!"(Remove this unused function declaration.(ÍßÓşÿÿÿÿ8ş… ¸®0
+upython:S117+"WRename this local variable "loss_W" to match the regular expression ^[_a-z][a-z0-9_]*$.(†¯Íì8ş… ¸®0
+Spython:S2190*"4Add a way to break out of this function's recursion.(Üéå8Åòàº®0
+ppython:S930."MAdd 1 missing arguments; 'numerical_gradient' expects 3 positional arguments.(†¢”ùÿÿÿÿ8Åòàº®0
+ppython:S930/"MAdd 1 missing arguments; 'numerical_gradient' expects 3 positional arguments.(³ß“Úüÿÿÿÿ8Åòàº®0
+ppython:S9300"MAdd 1 missing arguments; 'numerical_gradient' expects 3 positional arguments.(÷°øøÿÿÿÿ8Åòàº®0
+kpython:S9301"MAdd 1 missing arguments; 'numerical_gradient' expects 3 positional arguments.(“âÿØ8Åòàº®0
