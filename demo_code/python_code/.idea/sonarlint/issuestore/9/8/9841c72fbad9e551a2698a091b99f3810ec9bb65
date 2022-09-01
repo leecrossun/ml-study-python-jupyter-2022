@@ -1,0 +1,10 @@
+
+_python:S2208"GImport only needed names or import the module and then use its members.(¸”æ
+apython:S1160"JRename this field "dW" to match the regular expression ^[_a-z][_a-z0-9]*$.(ü‰ê
+cpython:S117)"MRename this parameter "W" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë²úD
+Ipython:S1172S",Remove the unused function parameter "dout".(ùœ‘°üÿÿÿÿ
+:python:S1110¦"!Remove those useless parentheses.(ŒÁš
+bpython:S116Ó"JRename this field "dW" to match the regular expression ^[_a-z][_a-z0-9]*$.(ü‰ê
+jpython:S116Ğ"MRename this field "col_W" to match the regular expression ^[_a-z][_a-z0-9]*$.(ú„ƒ»úÿÿÿÿ
+jpython:S117Ç"MRename this parameter "W" to match the regular expression ^[_a-z][a-z0-9_]*$.(íÀá•ùÿÿÿÿ
+npython:S117İ"VRename this local variable "col_W" to match the regular expression ^[_a-z][a-z0-9_]*$.(æúçĞ
